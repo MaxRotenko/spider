@@ -1,6 +1,6 @@
-# spider
 
-Spider
+
+# Spider
 
 A distributed engineering workspace for AI-assisted design, CAD, computer vision, and augmented reality.
 
