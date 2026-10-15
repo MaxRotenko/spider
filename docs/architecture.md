@@ -1,4 +1,4 @@
-# ARCHITECTURE.md
+
 
 # Spider: Distributed Engineering Environment Coordinator
 
