@@ -8,7 +8,7 @@ Spider is an experimental platform for connecting engineering tools, specialized
 
 Its goal is to help people turn ideas into working prototypes — from initial concepts and CAD models to computer vision, embedded systems, and physical devices.
 
-Core Principles
+# Core Principles
 
 - Modularity: specialized agents and tools work together through well-defined interfaces.
 - Shared context: engineering objects, properties, decisions, and processing history remain connected.
@@ -16,11 +16,11 @@ Core Principles
 - Practical experimentation: prioritize working prototypes, measurable results, and reproducible tests.
 - Open collaboration: build a foundation for engineers, makers, and researchers to share ideas and tools.
 
-Project Status
+# Project Status
 
 Early development. Architecture, prototypes, and interfaces are evolving.
 
-Roadmap
+# Roadmap
 
 - [ ] Document the system architecture.
 - [ ] Organize existing prototypes and experiments.
@@ -28,6 +28,6 @@ Roadmap
 - [ ] Integrate CAD and computer vision workflows.
 - [ ] Explore augmented reality for engineering and metrology.
 
-Philosophy
+# Philosophy
 
 Ideas worth building. Tools worth sharing. Engineering without unnecessary boundaries.
