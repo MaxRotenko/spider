@@ -1,0 +1,27 @@
+# Секреты — никогда не коммитим пароли и ключи
+.env
+.htpasswd
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Docker
+docker-compose.*.yml
+!docker-compose.prod.yml
+
+# Godot
+.godot/
+export/
+data_*/
+*.import
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
